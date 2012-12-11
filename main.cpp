@@ -1,6 +1,6 @@
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_image.h>
-int szer=320,wys=240;
+int szer=320,wys=240;	//cycki
 int main()
 {
     al_init();
